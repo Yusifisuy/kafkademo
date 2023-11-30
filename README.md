@@ -2,9 +2,12 @@
 https://kafka.apache.org/downloads
 
 2:KAFKA ENVIRONMENT`INI BASLATMAQ
+
 SIRA ILE BUNLARI RUN ELE (kafkani unzip ele sonra file olan yerde yaz bunlari cmd`e . too long erroru atsa versiyani sil file`in adini kafka ele
+
  ZooKeeper service - 
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
 Kafka broker service - 
 .\bin\windows\kafka-server-start.bat .\config\server.properties
 
